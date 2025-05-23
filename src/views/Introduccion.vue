@@ -18,7 +18,7 @@
       .col-lg-12(data-aos="zoom-in")
         figure
           .video
-            iframe(width="1493" height="840" src="https://www.youtube.com/embed/oHhCGELKPNg" title="El marketing turístico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+            iframe(width="1493" height="840" src="https://www.youtube.com/embed/Iiy6SnX3SIQ" title="El marketing turístico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
 
 </template>
 
