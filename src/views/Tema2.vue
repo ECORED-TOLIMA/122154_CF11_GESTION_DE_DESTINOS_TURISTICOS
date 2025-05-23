@@ -5,7 +5,18 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Titulo_de_primer_nivel
+      h1 Medios de promoción
+
+
+
+
+    separador
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 2.1	Tipos de medios aplicados a la promoción turística
+
+    separador
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 2.2	Herramientas utilizadas en la promoción turística
 
 
 </template>
