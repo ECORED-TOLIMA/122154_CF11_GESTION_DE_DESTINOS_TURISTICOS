@@ -18,7 +18,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img2.png')})`}" data-aos="fade-left"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-right")
-        p.mb-0 Para organizar eventos promocionales se deben conocer todos los elementos y aspectos relacionados con su actividad. No se puede pretender realizar eventos sin tener los conceptos claros acerca de los tipos de eventos y sus características, las etapas de un evento, la organización del trabajo mediante comités necesarios para su realización, y otros aspectos importantes que se deben aplicar para alcanzar los resultados esperados de marketing y promoción turística.
+        p.mb-0 Para organizar eventos promocionales se deben conocer todos los elementos y aspectos relacionados con su actividad. No se puede pretender realizar eventos sin tener los conceptos claros acerca de los tipos de eventos y sus características, las etapas de un evento, la organización del trabajo mediante comités necesarios para su realización, y otros aspectos importantes que se deben aplicar para alcanzar los resultados esperados de #[i marketing] y promoción turística.
     .row.justify-content-center.align-items-center
       .col-lg-10
         p Para contextualizar esta herramienta de promoción, la palabra evento proviene de eventualidad, que se trata de una acción extraordinaria que demanda un proceso estructurado, desde el consenso inicial hasta la materialización, con el propósito de conmemorar un hecho relevante, integrando fases de acuerdos, diseño meticuloso, gestión operativa y realización práctica. Los eventos son espacios que pueden ser creados por las empresas con la finalidad de dar a conocer productos o servicios y promocionar actividades turísticas que se ofrecen en un destino, y que pertenezcan a la categoría adecuada según las tipologías que se presentan a continuación.
@@ -26,7 +26,7 @@
     separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.1	Clasificación de eventos turísticos
-    p.mb-4 La clasificación de eventos turísticos permite entender la diversidad de actividades que pueden ser organizadas con fines promocionales, comerciales, sociales o culturales, siendo una herramienta clave para el marketing y posicionamiento de destinos. Cada tipo de evento responde a objetivos específicos y públicos distintos, por lo que su planificación debe considerar cuidadosamente su tipología. Las categorías más comunes son:
+    p.mb-4 La clasificación de eventos turísticos permite entender la diversidad de actividades que pueden ser organizadas con fines promocionales, comerciales, sociales o culturales, siendo una herramienta clave para el #[i marketing] y posicionamiento de destinos. Cada tipo de evento responde a objetivos específicos y públicos distintos, por lo que su planificación debe considerar cuidadosamente su tipología. Las categorías más comunes son:
 
     .tarjeta--BG04.p-4.mb-5
       PasosB.color-acento-contenido.tarjeta.tarjeta--BG03.p-4
@@ -67,13 +67,13 @@
               img(src='@/assets/curso/temas/tema4/img7.png', alt='Texto que describa la imagen')
     .row.justify-content-center.align-items-center
       .col-lg-10
-        p En el campo del marketing turístico, los eventos empresariales o corporativos cumplen un papel estratégico, ya que permiten promocionar productos y servicios del destino, establecer redes de colaboración, captar inversionistas y fortalecer la imagen del territorio. Al mismo tiempo, ofrecen una oportunidad para medir la capacidad organizativa del destino, su infraestructura, talento humano y logística, todos elementos fundamentales para consolidarlo como sede de grandes encuentros.
+        p En el campo del #[i marketing] turístico, los eventos empresariales o corporativos cumplen un papel estratégico, ya que permiten promocionar productos y servicios del destino, establecer redes de colaboración, captar inversionistas y fortalecer la imagen del territorio. Al mismo tiempo, ofrecen una oportunidad para medir la capacidad organizativa del destino, su infraestructura, talento humano y logística, todos elementos fundamentales para consolidarlo como sede de grandes encuentros.
         p La correcta elección de la tipología del evento según los objetivos de promoción garantiza un mayor impacto en la audiencia, promueve la fidelización de visitantes y contribuye al desarrollo sostenible de la actividad turística.
 
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.2	Etapas para la organización de eventos
-    p.mb-4 La organización de un evento promocional, independientemente de su magnitud, exige una planificación estructurada dividida en tres etapas fundamentales: pre-evento, evento y pos-evento. Cada una de estas fases cumple funciones específicas que garantizan el éxito de la actividad promocional y su alineación con los objetivos de marketing turístico.
+    p.mb-4 La organización de un evento promocional, independientemente de su magnitud, exige una planificación estructurada dividida en tres etapas fundamentales: pre-evento, evento y pos-evento. Cada una de estas fases cumple funciones específicas que garantizan el éxito de la actividad promocional y su alineación con los objetivos de #[i marketing] turístico.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3
@@ -221,7 +221,7 @@
     .row.mb-4
       .col-lg-12
         .tabla-b.color-acento-contenido.mb-4(data-aos="fade-left")
-          table(alt="Tabla que relaciona las teorías de la administración, la cual explica en qué consiste casa una y asocia sus respectivos principios.")
+          table(alt="")
             thead.bghead
               tr
                 th Comité	
@@ -361,7 +361,7 @@
     .row.mb-4
       .col-lg-12
         .tabla-b.color-acento-contenido.mb-4(data-aos="fade-left")
-          table(alt="Tabla que relaciona las teorías de la administración, la cual explica en qué consiste casa una y asocia sus respectivos principios.")
+          table(alt="")
             thead.bghead
               tr
                 th Estrategia	
@@ -373,7 +373,7 @@
               tr
                 td.text-left Es el enfoque o plan general para alcanzar los objetivos del evento. Aquí se deben plantear las acciones clave, pero de manera global.	
                 td.text-left Son los pasos específicos que se deben seguir para ejecutar las estrategias. Deben estar organizados de manera lógica y secuencial.	
-                td.text-left Involucra todos los insumos necesarios para llevar a cabo las actividades. Estos recursos pueden ser humanos, físicos (espacios y equipos), tecnológicos (software y hardware), financieros o de información.	
+                td.text-left Involucra todos los insumos necesarios para llevar a cabo las actividades. Estos recursos pueden ser humanos, físicos (espacios y equipos), tecnológicos (#[i software] y hardware), financieros o de información.	
                 td.text-left Se deben establecer las fechas exactas para la ejecución de cada actividad. Asegurarse de asignar tiempos razonables y viables, considerando posibles imprevistos.	
                 td.text-left Asigna claramente a los comités o personas encargadas de cada actividad, con base en su área de especialización.
     p.mb-4 En este paso, es fundamental tener en cuenta algunas consideraciones clave para lograr un plan de trabajo efectivo y exitoso:
