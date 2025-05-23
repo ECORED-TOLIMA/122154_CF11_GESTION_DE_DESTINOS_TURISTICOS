@@ -23,7 +23,7 @@
           p.text-small(numero="2" titulo="Receptor") El destinatario del mensaje. En #[i marketing], el receptor es el cliente, cuya actitud de apertura y receptividad es esencial para que la comunicación sea eficaz.
           p.text-small(numero="3" titulo="Contenido") El mensaje que se transmite, generalmente relacionado con productos y servicios.
           p.text-small(numero="4" titulo="Código") El lenguaje o símbolos utilizados para transmitir la información.
-          p.text-small(numero="5" titulo="Canal") de El medio a través del cual se transmite el mensaje (por ejemplo, medios digitales, impresos, etc.).
+          p.text-small(numero="5" titulo="Canal") De El medio a través del cual se transmite el mensaje (por ejemplo, medios digitales, impresos, etc.).
           p.text-small(numero="6" titulo="Feedback (retroalimentación)") La respuesta del receptor, que indica si el mensaje fue recibido correctamente y si la comunicación ha sido efectiva.
           
       .col-lg-4(data-aos="zoom-in")
