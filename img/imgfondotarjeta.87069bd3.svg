@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="327" height="445.522" viewBox="0 0 327 445.522">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_378415" data-name="Rectángulo 378415" width="327" height="445.522" rx="20" fill="#fef7eb"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_378459" data-name="Rectángulo 378459" width="327" height="445.522" rx="20" fill="#feebcf"/>
+    </clipPath>
+  </defs>
+  <g id="imgfondotarjeta" transform="translate(-284.668 -5976)">
+    <g id="Enmascarar_grupo_1073331" data-name="Enmascarar grupo 1073331" transform="translate(284.668 5976)" clip-path="url(#clip-path)">
+      <rect id="Rectángulo_401102" data-name="Rectángulo 401102" width="367" height="498.851" rx="20" transform="translate(-20 -26.665)" fill="#feebcf"/>
+      <path id="Trazado_873392" data-name="Trazado 873392" d="M418.419,437.359c0-28.418-42.7-63.208-71.983-63.208s-54.055,5.571-87.4,5.571-81.673-11.576-81.673-68.159c0-15,7.381-32.578,7.381-59.581s-20.242-54.015-72.629-50.369-64.057-23.79-64.057-48.653S84.495,61.444,0,0V437.359Z" transform="translate(281.692 -26.665) rotate(90)" fill="#fecab2" opacity="0.58"/>
+    </g>
+  </g>
+</svg>
