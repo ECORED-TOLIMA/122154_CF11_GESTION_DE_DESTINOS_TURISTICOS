@@ -13,20 +13,20 @@
       .col-lg-7(data-aos="fade-left")
         p El concepto de promoción como una variable fundamental del #[i marketing] permite comprender su origen, sus elementos clave y su aplicación en el sector turístico. La promoción es una de las cuatro variables del mix #[i marketing], que debe combinarse eficazmente para ejecutar acciones que comuniquen productos y servicios a un mercado objetivo.
         .cajon.color-secundario.p-4.mb-4
-          p Los clientes, con diversas necesidades, buscan satisfacerlas mediante productos y servicios, y sus decisiones de compra están influenciadas por la información que obtienen a través de distintos medios. Los servicios turísticos no escapan a este proceso de difusión y conocimiento, dado que los destinos deben satisfacer las demandas de ocio, recreación y aprovechamiento del tiempo libre de los turistas.
+          p.mb-0 Los clientes, con diversas necesidades, buscan satisfacerlas mediante productos y servicios, y sus decisiones de compra están influenciadas por la información que obtienen a través de distintos medios. Los servicios turísticos no escapan a este proceso de difusión y conocimiento, dado que los destinos deben satisfacer las demandas de ocio, recreación y aprovechamiento del tiempo libre de los turistas.
       p.mb-4 En términos simples, la comunicación se entiende como el proceso mediante el cual se intercambian ideas, opiniones o información mediante la expresión verbal, escrita, señales u otros medios. Desde una perspectiva técnica, la comunicación implica la transmisión de un mensaje desde un punto A hacia un punto B, distantes en espacio o tiempo. Este proceso involucra varios elementos fundamentales:
     
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-6(data-aos="fade-right")
+      .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
         LineaTiempoD.color-acento-botones
-          p.text-small(numero="1" titulo="Emisor") La persona o empresa que inicia el proceso de comunicación. En #[i marketing], el emisor es el vendedor u oferente de un producto o servicio. Este debe garantizar que el mensaje sea claro, atractivo, adecuado al receptor y entregado en el momento oportuno.
-          p.text-small(numero="2" titulo="Receptor") El destinatario del mensaje. En #[i marketing], el receptor es el cliente, cuya actitud de apertura y receptividad es esencial para que la comunicación sea eficaz.
-          p.text-small(numero="3" titulo="Contenido") El mensaje que se transmite, generalmente relacionado con productos y servicios.
-          p.text-small(numero="4" titulo="Código") El lenguaje o símbolos utilizados para transmitir la información.
-          p.text-small(numero="5" titulo="Canal") De El medio a través del cual se transmite el mensaje (por ejemplo, medios digitales, impresos, etc.).
-          p.text-small(numero="6" titulo="Feedback (retroalimentación)") La respuesta del receptor, que indica si el mensaje fue recibido correctamente y si la comunicación ha sido efectiva.
+          p(numero="1" titulo="Emisor") La persona o empresa que inicia el proceso de comunicación. En #[i marketing], el emisor es el vendedor u oferente de un producto o servicio. Este debe garantizar que el mensaje sea claro, atractivo, adecuado al receptor y entregado en el momento oportuno.
+          p(numero="2" titulo="Receptor") El destinatario del mensaje. En #[i marketing], el receptor es el cliente, cuya actitud de apertura y receptividad es esencial para que la comunicación sea eficaz.
+          p(numero="3" titulo="Contenido") El mensaje que se transmite, generalmente relacionado con productos y servicios.
+          p(numero="4" titulo="Código") El lenguaje o símbolos utilizados para transmitir la información.
+          p(numero="5" titulo="Canal") El medio a través del cual se transmite el mensaje (por ejemplo, medios digitales, impresos, etc.).
+          p(numero="6" titulo="<em>Feedback</em> (retroalimentación)") La respuesta del receptor, que indica si el mensaje fue recibido correctamente y si la comunicación ha sido efectiva.
           
-      .col-lg-4(data-aos="zoom-in")
+      .col-lg-4.col-md-8.col-sm-4.order-lg-2.order-1(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema1/img2.svg', alt='Texto que describa la imagen')
     p.mb-4 El proceso de comunicación se compone de ocho pasos esenciales:
@@ -131,7 +131,7 @@
           img(src='@/assets/curso/temas/tema1/img7.svg', alt='Texto que describa la imagen')
       .col-lg-7(data-aos="fade-left")
         .cajon.color-primario.p-4.mb-4
-          p Para abordar las estrategias de promoción, es fundamental entender su origen y concepto, los cuales provienen de la ciencia administrativa aplicada al #[i marketing] y la promoción turística.
+          p.mb-0 Para abordar las estrategias de promoción, es fundamental entender su origen y concepto, los cuales provienen de la ciencia administrativa aplicada al #[i marketing] y la promoción turística.
         p La disciplina administrativa ofrece herramientas para dirigir los esfuerzos organizacionales y así atraer a nuevos clientes. A través del #[i marketing], se coordinan diversas actividades, incluidas aquellas que promocionan y dan a conocer productos y servicios turísticos. La administración de #[i marketing] es un proceso que planea, organiza, dirige y controla los esfuerzos para lograr el intercambio de bienes y servicios con los mercados objetivo de una empresa.
     p.mb-4 La administración de #[i marketing] se considera un proceso integral para analizar oportunidades de negocio, definir objetivos concretos y formular estrategias que forman parte de un plan estructurado. Este plan permite ejecutar y controlar las actividades comerciales. La planificación de #[i marketing] comienza con la elaboración de un plan de #[i marketing], que detalla qué se hará, cuándo, cómo y quién será responsable de llevarlo a cabo. Las ventajas de la planificación incluyen:  
     .row.justify-content-center.align-items-center.mb-5
@@ -154,7 +154,7 @@
       .col-lg-12
         p Al considerar la planificación estratégica como un proceso, se deben contemplar tres etapas clave, de las cuales se derivan las estrategias de #[i marketing], incluidas las de promoción, que son aplicables al posicionamiento de destinos turísticos:
     
-    .tarjeta--BG04.p-4.mb-5
+    .tarjeta--BG04.p-4.px-lg-5.mb-4
       PasosB.color-acento-contenido.tarjeta.tarjeta--BG03.p-4
         .row(titulo="")
           .col-md-6.mb-4.mb-md-0
@@ -180,7 +180,7 @@
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-12
-        p Para dar cumplimiento de logros, se hace necesario la claridad de las acciones universales que permiten coordinar el conjunto de actividades que se presentan en los grupos, colectivos o empresas que impactan en las diferentes posiciones de los miembros, denominados puestos o cargo o en su defecto, involucrado directo de la acción. Es aquí, en donde se habla de las funciones de la administración para la puesta en marcha de estrategias de acción: 
+        p En el marco de las estrategias generales de marketing, se destacan diversas aproximaciones que buscan mejorar la competitividad y posicionamiento de un destino turístico:
     SlyderF.mb-4(columnas="col-lg-6 col-xl-4")
       .tarjeta.tarjeta--BG02.color-primario.p-4
         .row.justify-content-center.mb-3
@@ -259,15 +259,15 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.3	Imagen y marca en la promoción turística
     p.mb-4 Cuando se piensa en empresas que han permanecido mucho tiempo en el mercado, como Coca-Cola, Apple Inc. o Disney (esta última como destino turístico mundial), las cuales siguen posicionadas en la mente de las personas, se puede afirmar que el poder de una imagen y una marca es un elemento diferenciador clave. Esta fortaleza ha permitido a estas empresas consolidarse como un aspecto central en sus estrategias de #[i marketing] y promoción de productos y servicios.
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-4.col-md-6.col-sm-8.mb-4(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema1/img21.png', alt='Texto que describa la imagen')
       .col-lg-6(data-aos="fade-left")
         p Es importante comprender que el objetivo no es solo vender productos, sino mucho más que eso. Se trata de contar una historia que permita llegar a la mente de las personas y permanecer en ella. La marca es una promesa que debe permitir no solo que los consumidores elijan el producto o servicio por encima de los demás competidores en el mercado, sino también que lo perciban como el único capaz de satisfacer sus necesidades y expectativas.
-        .cajon.color-primario.p-4.mb-4
-          p Hoy en día, cuando la competencia es alta y feroz, la diferencia se crea a través de imágenes, símbolos y marcas, las cuales deben transmitir un concepto único y diferenciador que convierta a la marca en algo imposible de olvidar.
-    p Cualquier estrategia de promoción debe estar respaldada por un diseño de imagen que forme parte de la marca, un concepto que en el #[i marketing] se conoce como #[i branding]. Este proceso implica el desarrollo y difusión de una marca mediante una serie de elementos y acciones de comunicación y promoción estratégicamente pensadas. A continuación, se detallan algunas características clave que una marca o “brand” debe cumplir:
+        .cajon.color-primario.p-4
+          p.mb-0 Hoy en día, cuando la competencia es alta y feroz, la diferencia se crea a través de imágenes, símbolos y marcas, las cuales deben transmitir un concepto único y diferenciador que convierta a la marca en algo imposible de olvidar.
+    p Cualquier estrategia de promoción debe estar respaldada por un diseño de imagen que forme parte de la marca, un concepto que en el #[i marketing] se conoce como #[i branding]. Este proceso implica el desarrollo y difusión de una marca mediante una serie de elementos y acciones de comunicación y promoción estratégicamente pensadas. A continuación, se detallan algunas características clave que una marca o #[i “brand”] debe cumplir:
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10.movil
         figure
@@ -284,7 +284,7 @@
             h5.mb-0 Nombre, término, diseño, símbolo o alguna otra característica que identifique el bien o servicio de un vendedor y lo diferencie de otros vendedores.
             i.fas.fa-quote-right
             br
-            p.text-small - Diccionario de la American #[i Marketing] Association.
+            p.text-small - Diccionario de la <dfn> American Marketing Association</dfn>.
       .col-lg-5.mb-5.mb-lg-0
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
@@ -305,7 +305,7 @@
     p.mb-4 Los componentes clave de una marca son el logotipo, el nombre y el eslogan. La combinación de estos elementos hace que la marca sea un factor fundamental para promocionar y comunicar la promesa de valor de un producto o servicio, y, por supuesto, de un destino turístico.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+      .col-lg-3.col-md-6.col-sm-4
         figure
           img(src='@/assets/curso/temas/tema1/img23.svg', alt='Texto que describa la imagen')
 
@@ -313,13 +313,13 @@
         TabsA.color-acento-botones
           .tarjeta.color-acento-botones--borde.p-4(titulo="El logotipo")
             p Es la representación gráfica de la marca, cuyo diseño debe ser simple, versátil y memorable. A través de una construcción adecuada, el logotipo puede convertirse en un símbolo icónico e inolvidable. La recordación, versatilidad y simplicidad son cualidades fundamentales para crear una imagen eficaz en una estrategia de #[i branding] de cualquier destino turístico.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="El naming")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="El <em>naming</em>")
             p Es la palabra o conjunto de palabras que identifican, definen y diferencian la marca del resto de productos en el mercado. Existen modelos sintácticos que deben estar presentes en todo nombre de marca, tales como descriptivo, neologismo, abstracto, sugerente, evocativo y asociativo.
-          .tarjeta.color-acento-botones--borde.p-4(titulo="El slogan")
+          .tarjeta.color-acento-botones--borde.p-4(titulo="El <em>slogan</em>")
             p Es una frase breve que busca facilitar la rápida identificación y memorización de la marca por parte de los consumidores. Define o resalta lo que la marca ofrece, incrementando su impacto en las acciones de promoción y comunicación.
           .tarjeta.color-acento-botones--borde.p-4(titulo="La imagen")
             p Es la cara visible de la marca, representada principalmente en el logotipo. Acompañada del nombre, forma parte de la identidad visual que busca representar los valores del producto o servicio a través de diversos elementos, tanto físicos como digitales. Empresas como Coca-Cola o Apple han desarrollado identidades visuales coherentes y consistentes en el tiempo que facilitan la asociación instantánea de sus marcas con los consumidores.
-    p.mb-4 Siguiendo estos principios, un destino turístico puede promocionarse a través del diseño de una imagen y marca asociada, como lo ejemplifica Colombia con su slogan “Colombia, el país de la belleza”. Este tipo de #[i branding] ayuda a que el destino se distinga y quede grabado en la mente de los turistas potenciales.
+    p.mb-4 Siguiendo estos principios, un destino turístico puede promocionarse a través del diseño de una imagen y marca asociada, como lo ejemplifica Colombia con su #[i slogan] “Colombia, el país de la belleza”. Este tipo de #[i branding] ayuda a que el destino se distinga y quede grabado en la mente de los turistas potenciales.
     .titulo-sexto.color-acento-contenido.offset-1(data-aos="zoom-in")
         h5 Figura 1.
         span  #[i Ejemplo de #[i branding] ]
@@ -334,10 +334,10 @@
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.4	Elaboración del mensaje interpretativo
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-9
+      .col-lg-9.order-lg-1.order-2
         p La elaboración del mensaje interpretativo dentro del #[i marketing] turístico se basa en un proceso de comunicación diseñado para transmitir de manera efectiva los atractivos y el patrimonio de un destino. Este proceso involucra varios pasos esenciales, que se complementan con elementos sobre interpretación, comunicación y la aplicación de técnicas específicas para lograr una comunicación exitosa con los turistas.
         p De manera general, interpretar significa comprender un mensaje transmitido a través de un lenguaje, utilizando un medio o canal adecuado. El mensaje interpretativo es un proceso que permite al receptor entender la información transmitida por el emisor, siguiendo los principios de la comunicación. Las técnicas interpretativas aplicadas en el contexto turístico incluyen diversas estrategias para atraer la atención de los turistas, como invitaciones a participar en actividades, estimulación sensorial, generación de emociones y uso de analogías y comparaciones. Estas estrategias mejoran la efectividad del mensaje y garantizan una experiencia gratificante y memorable para el visitante.
-      .col-lg-3
+      .col-lg-3.col-md-6.col-sm-4.order-lg-2.order-1
         figure
           img(src='@/assets/curso/temas/tema1/img25.svg', alt='Texto que describa la imagen')
 

@@ -21,7 +21,7 @@
       h2 5.1	Actividades posteriores al evento
     p.mb-4 Una vez culminado el evento, se deben realizar una serie de actividades para su cierre formal, consolidación de resultados y retroalimentación de los actores involucrados. Estas actividades incluyen:
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4(data-aos="zoom-in")
+      .col-lg-4.col-md-8.mb-md-4(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema5/img2.svg', alt='Texto que describa la imagen')
       .col-lg-6(data-aos="fade-right")
@@ -104,7 +104,7 @@
                 td.text-left Número de nuevos contactos estratégicos o comerciales derivados del evento.	
                 td.text-left Se recopilaron 50 nuevos leads de empresas interesadas en los servicios ofrecidos.
               tr
-                td Evaluación logística	
+                td.text-left Evaluación logística	
                 td.text-left Cumplimiento de la logística en cuanto a horarios, locaciones, insumos, entre otros.	
                 td.text-left 95 % de las actividades iniciaron a tiempo y se entregaron los materiales completos.
               tr

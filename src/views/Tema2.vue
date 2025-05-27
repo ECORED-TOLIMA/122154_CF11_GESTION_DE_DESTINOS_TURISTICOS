@@ -20,7 +20,7 @@
           .cajon.color-primario.p-4.mb-4
             p.mb-0 En el contexto del #[i marketing] turístico, la elección adecuada de los medios de promoción resulta clave para generar interés, motivar la visita y crear una imagen positiva del destino o servicio. Entre los principales medios utilizados se encuentran la publicidad (en medios impresos, digitales, televisión o radio), las relaciones públicas, la promoción de ventas, el #[i marketing] digital, la participación en ferias y eventos, y el #[i marketing] experiencial. Cada uno de estos medios posee características particulares y debe ser valorado según su alcance, costos, impacto y pertinencia frente al público al que se desea llegar.
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-2
+        .col-lg-2.col-md-4.col-sm-4
           figure
             img(src='@/assets/curso/temas/tema2/img2.svg', alt='Texto que describa la imagen')
         .col-lg-8
@@ -37,15 +37,15 @@
       .col-lg-12(data-aos="zoom-in")
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Medios de comunicación personales")
-            .col-md-6.mb-md-0
+            .col-lg-6.mb-md-0.order-lg-1.order-2
               p Este tipo de medio se basa en la interacción directa entre dos o más personas. Puede desarrollarse cara a cara, por teléfono, correo electrónico, mensajería instantánea o chats en línea. Su principal ventaja radica en la posibilidad de establecer un intercambio inmediato, lo que facilita la retroalimentación y la construcción de confianza. En el sector turístico, este tipo de medios es especialmente eficaz debido a la naturaleza intangible de los servicios. Los consumidores suelen recurrir a la opinión de terceros antes de tomar decisiones, por lo que los canales personales, como los vendedores, guías turísticos, influenciadores o recomendaciones de otros usuarios en redes sociales, tienen un alto nivel de credibilidad e impacto.
-            .col-md-6.mb-md-0
+            .col-lg-6.col-12.mb-lg-0.mb-4.mb-md-4.order-lg-2.order-1
               figure
                   img(src='@/assets/curso/temas/tema2/img3.png', alt="Imagen decorativa")
           .row(titulo="Medios de comunicación impersonales")
-            .col-md-6.mb-md-0
-              p Son aquellos que no implican interacción directa entre emisor y receptor. Incluyen medios masivos como televisión, radio, prensa escrita, sitios web, redes sociales, vallas publicitarias y material impreso como folletos o catálogos. También se incluyen en esta categoría las acciones de relaciones públicas, como conferencias, ruedas de prensa, eventos de lanzamiento o recorridos turísticos para periodistas o blogueros. Estos medios permiten alcanzar audiencias amplias y generar visibilidad para los destinos, marcas o productos turísticos.
-            .col-md-6.mb-md-0
+            .col-lg-6.order-lg-1.order-2
+              p Son aquellos que no implican interacción directa entre emisor y receptor. Incluyen medios masivos como televisión, radio, prensa escrita, sitios #[i web], redes sociales, vallas publicitarias y material impreso como folletos o catálogos. También se incluyen en esta categoría las acciones de relaciones públicas, como conferencias, ruedas de prensa, eventos de lanzamiento o recorridos turísticos para periodistas o blogueros. Estos medios permiten alcanzar audiencias amplias y generar visibilidad para los destinos, marcas o productos turísticos.
+            .col-lf-6.col-12.mb-lg-0.mb-4.mb-md-4.order-lg-2.order-1.mb-4
               figure
                   img(src='@/assets/curso/temas/tema2/img4.png', alt="Imagen decorativa")
     separador
@@ -64,10 +64,10 @@
                     ul.lista-ul
                       li
                         i.fas.fa-angle-right
-                        | Medios masivos: televisión, radio, cine, prensa, revistas y medios digitales como páginas web, blogs y redes sociales.
+                        | Medios masivos: televisión, radio, cine, prensa, revistas y medios digitales como páginas #[i web], #[i blogs] y redes sociales.
                       li
                         i.fas.fa-angle-right
-                        | Medios de apoyo o complementarios: folletos, catálogos, volantes, vallas, carteles, pantallas LED, y souvenirs como gorras, camisetas o llaveros, entre otros.
+                        | Medios de apoyo o complementarios: folletos, catálogos, volantes, vallas, carteles, pantallas LED, y #[i souvenirs] como gorras, camisetas o llaveros, entre otros.
 
                 .row.justify-content-center.align-items-center
                   .col-lg-12(data-aos="zoom-in")
@@ -76,33 +76,33 @@
           .row.justify-content-center(numero="B" titulo="Promoción de ventas")
             .col-lg-12.order-lg-1.order-2
               p Consiste en el uso temporal de incentivos como descuentos, obsequios, sorteos, rifas o concursos para estimular la compra inmediata. Aunque no se aplica directamente a la gestión de destinos turísticos, es comúnmente utilizada por prestadores de servicios individuales para aumentar sus ventas y atraer clientes en el corto plazo.
-            .col-lg-12.order-lg-1.order-1(data-aos="zoom-in")
+            .col-lg-12.order-lg-1.mb-md-4.order-1(data-aos="zoom-in")
               figure
                 img(src='@/assets/curso/temas/tema2/img6.png', alt="Imagen decorativa")
           .row.justify-content-center(numero="C" titulo="Venta personal")
             .col-lg-12.order-lg-1.order-2
               p Se refiere a la interacción directa entre un vendedor y un cliente potencial, lo cual permite adaptar el mensaje a las necesidades específicas del comprador. Es especialmente útil con clientes estratégicos, como agencias de viajes, ya que fomenta relaciones de confianza y facilita acuerdos comerciales. Sin embargo, su aplicación en la promoción de destinos turísticos es limitada y más propia de actores individuales.
-            .col-lg-12.order-lg-1.order-1(data-aos="zoom-in")
+            .col-lg-12.order-lg-1.mb-md-4.order-1(data-aos="zoom-in")
               figure
-                img(src='@/assets/curso/temas/tema2/img6.png', alt="Imagen decorativa")
+                img(src='@/assets/curso/temas/tema2/img7.png', alt="Imagen decorativa")
           .row.justify-content-center(numero="D" titulo="Relaciones públicas")
             .col-lg-12.order-lg-1.order-2
               p Comprenden un conjunto de acciones organizadas para construir y mantener una imagen positiva del destino turístico ante diferentes públicos. Incluyen notas de prensa, actividades de patrocinio, eventos especiales y publirreportajes. Esta herramienta, aunque muchas veces subestimada, puede ser muy eficaz y de bajo costo cuando se diseña estratégicamente y se integra con otras acciones del mix promocional.
-            .col-lg-12.order-lg-1.order-1(data-aos="zoom-in")
+            .col-lg-12.order-lg-1.mb-md-4.order-1(data-aos="zoom-in")
               figure
-                img(src='@/assets/curso/temas/tema2/img6.png', alt="Imagen decorativa")
-          .row.justify-content-center(numero="E" titulo="#[i Marketing] directo o digital")
+                img(src='@/assets/curso/temas/tema2/img8.png', alt="Imagen decorativa")
+          .row.justify-content-center(numero="E" titulo="<em>Marketing</em> directo o digital")
             .col-lg-12.order-lg-1.order-2
-              p Implica comunicaciones personalizadas e interactivas dirigidas a públicos específicos, utilizando canales como el correo electrónico, la mensajería instantánea, sitios web, redes sociales y otras plataformas digitales. Se caracteriza por ser inmediato, medible y flexible. El #[i marketing] digital permite construir relaciones uno a uno con los turistas potenciales y es fundamental para cualquier estrategia actual de promoción turística.
-            .col-lg-12.order-lg-1.order-1(data-aos="zoom-in")
+              p Implica comunicaciones personalizadas e interactivas dirigidas a públicos específicos, utilizando canales como el correo electrónico, la mensajería instantánea, sitios #[i web], redes sociales y otras plataformas digitales. Se caracteriza por ser inmediato, medible y flexible. El #[i marketing] digital permite construir relaciones uno a uno con los turistas potenciales y es fundamental para cualquier estrategia actual de promoción turística.
+            .col-lg-12.order-lg-1.mb-md-4.order-1(data-aos="zoom-in")
               figure
-                img(src='@/assets/curso/temas/tema2/img6.png', alt="Imagen decorativa")
+                img(src='@/assets/curso/temas/tema2/img9.png', alt="Imagen decorativa")
           .row.justify-content-center(numero="F" titulo="Eventos, ferias y exposiciones")
             .col-lg-12.order-lg-1.order-2
               p Son espacios clave para presentar destinos, lanzar marcas región y generar vínculos comerciales. Permiten el contacto directo entre la oferta y la demanda, y facilitan la difusión de rutas, circuitos, planes turísticos y demás servicios. Es esencial considerar aspectos como el prestigio, la cobertura geográfica, la frecuencia y el poder de convocatoria de los eventos al seleccionar en cuáles participar o cuáles organizar.
-            .col-lg-12.order-lg-1.order-1(data-aos="zoom-in")
+            .col-lg-12.order-lg-1.mb-md-4.order-1(data-aos="zoom-in")
               figure
-                img(src='@/assets/curso/temas/tema2/img6.png', alt="Imagen decorativa")
+                img(src='@/assets/curso/temas/tema2/img9.png', alt="Imagen decorativa")
     p De las seis herramientas presentadas, las más relevantes para la promoción turística de destinos son la publicidad, las relaciones públicas, el #[i marketing] digital y los eventos, ferias y exposiciones. En cambio, la promoción de ventas y la venta personal se adaptan mejor a acciones individuales realizadas por prestadores de servicios turísticos para sus productos específicos.
 </template>
 

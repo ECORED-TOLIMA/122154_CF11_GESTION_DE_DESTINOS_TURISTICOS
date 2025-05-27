@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-2(data-aos="zoom-in")
+      .col-lg-2.col-4(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/intro/img1.svg', alt='Texto que describa la imagen')
       .col-lg-9(data-aos="fade-left")

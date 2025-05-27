@@ -7,7 +7,7 @@
         span 4
       h1 Eventos promocionales
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-2
+      .col-lg-2.col-md-4.mb-md-4
         figure
           img(src='@/assets/curso/temas/tema4/img1.svg', alt='Texto que describa la imagen')
       .col-lg-10
@@ -28,7 +28,7 @@
       h2 4.1	Clasificación de eventos turísticos
     p.mb-4 La clasificación de eventos turísticos permite entender la diversidad de actividades que pueden ser organizadas con fines promocionales, comerciales, sociales o culturales, siendo una herramienta clave para el #[i marketing] y posicionamiento de destinos. Cada tipo de evento responde a objetivos específicos y públicos distintos, por lo que su planificación debe considerar cuidadosamente su tipología. Las categorías más comunes son:
 
-    .tarjeta--BG04.p-4.mb-5
+    .tarjeta--BG04.p-4.mb-5.px-lg-5
       PasosB.color-acento-contenido.tarjeta.tarjeta--BG03.p-4
         .row(titulo="")
           .col-md-6.mb-4.mb-md-0
@@ -76,7 +76,7 @@
     p.mb-4 La organización de un evento promocional, independientemente de su magnitud, exige una planificación estructurada dividida en tres etapas fundamentales: pre-evento, evento y pos-evento. Cada una de estas fases cumple funciones específicas que garantizan el éxito de la actividad promocional y su alineación con los objetivos de #[i marketing] turístico.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+      .col-lg-3.col-md-6.mb-md-4
         figure
           img(src='@/assets/curso/temas/tema4/img8.png', alt='Texto que describa la imagen')
       .col-lg-7
@@ -109,8 +109,8 @@
             | Planificación logística y operativa.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
-        .cajon.color-primario.p-4.mb-4
-          p Una planificación rigurosa en esta etapa es crucial para minimizar errores y garantizar la coherencia de cada acción con los fines promocionales del evento.
+        .cajon.color-primario.p-4
+          p.mb-0 Una planificación rigurosa en esta etapa es crucial para minimizar errores y garantizar la coherencia de cada acción con los fines promocionales del evento.
     .mb-4.d-flex(data-aos="fade-right")
       .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: #FFE9DF; border-radius: 15px;")
         img(src='@/assets/curso/temas/tema4/icon.svg' style="max-width: 32px; margin-left: -16px;")
@@ -120,7 +120,7 @@
         .col-lg-11
           p Corresponde a la fase de ejecución del evento, donde se materializan las acciones previstas en la etapa anterior. Es fundamental mantener un control estricto sobre el desarrollo de cada actividad, asegurando el cumplimiento del cronograma, el adecuado funcionamiento de los recursos técnicos y la articulación efectiva entre los comités operativos. Las tareas prioritarias incluyen:
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-2
+        .col-lg-2.col-md-4.mb-md-4
           figure
             img(src='@/assets/curso/temas/tema4/img9.svg', alt='Texto que describa la imagen')
         .col-lg-8
@@ -148,7 +148,7 @@
         img(src='@/assets/curso/temas/tema4/icon.svg' style="max-width: 32px; margin-left: -16px;")
         h3.col.ps-3.mb-0 Etapa 3. Pos-evento
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-5
+      .col-lg-5.col-md-10.mb-md-4
         figure
           img(src='@/assets/curso/temas/tema4/img10.png', alt='Texto que describa la imagen')
       .col-lg-7
@@ -429,8 +429,8 @@
           p #[b g.	Actualización constante]: revisar y ajustar el plan con base en experiencias anteriores o cambios en el entorno del evento.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
-        .cajon.color-primario.p-4.mb-4
-          p Contar con un plan de contingencia no solo protege la ejecución del evento, sino que también preserva la reputación de la organización, genera confianza en los participantes y permite una gestión eficaz en situaciones de crisis.
+        .cajon.color-primario.p-4
+          p.mb-0 Contar con un plan de contingencia no solo protege la ejecución del evento, sino que también preserva la reputación de la organización, genera confianza en los participantes y permite una gestión eficaz en situaciones de crisis.
 </template>
 
 <script>

@@ -1,1 +1,1 @@
-module.exports = 'El <em>marketing</em> turístico'
+module.exports = 'El marketing turístico'

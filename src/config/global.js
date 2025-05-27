@@ -250,7 +250,7 @@ export default {
     {
       termino: '<em>Marketing</em> digital',
       significado:
-        'uso de plataformas digitales y tecnologías en línea para promocionar productos o servicios, incluyendo redes sociales, campañas de correo electrónico y posicionamiento web.',
+        'uso de plataformas digitales y tecnologías en línea para promocionar productos o servicios, incluyendo redes sociales, campañas de correo electrónico y posicionamiento <em>web</em>.',
     },
     {
       termino: '<em>Marketing</em> turístico',
@@ -355,7 +355,7 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Liliana Victoria Morales Gualdrón',
+          nombre: 'Diana Rocío Possos Beltrán',
           cargo: 'Responsable de línea de producción',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
@@ -400,7 +400,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Veimar Celis Meléndez',
+          nombre: 'Veimar Celis Melendez',
           cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },

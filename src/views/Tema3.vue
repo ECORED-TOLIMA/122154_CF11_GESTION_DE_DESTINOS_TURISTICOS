@@ -37,24 +37,24 @@
           img(src='@/assets/curso/temas/tema3/img4.png', alt='Texto que describa la imagen')
       .col-lg-9(data-aos="fade-left")
         p Con la evolución de la sociedad de la información y la expansión del entorno digital, las teorías tradicionales del #[i marketing] comenzaron a quedar obsoletas. Se propuso entonces una redefinición conceptual que incluyera el término “#[i marketing] de las organizaciones” para referirse a las relaciones entre empresas, comunidades y redes sociales, desplazando así la noción de #[i marketing] industrial. Este nuevo enfoque ha favorecido el desarrollo de estrategias más sofisticadas de segmentación de precios, una mayor personalización de productos, el uso de múltiples canales de distribución y herramientas promocionales digitales más avanzadas.
-        .cajon.color-primario.p-4.mb-4
-          p Para que el comercio electrónico se consolide, es esencial que el acceso a Internet y a las tecnologías digitales esté suficientemente extendido en la población. En la actualidad, puede afirmarse que la sociedad se encuentra plenamente inmersa en la era digital, y que el comercio electrónico ya no es una promesa, sino una realidad ampliamente aceptada y en constante crecimiento.
+        .cajon.color-primario.p-4
+          p.mb-0 Para que el comercio electrónico se consolide, es esencial que el acceso a Internet y a las tecnologías digitales esté suficientemente extendido en la población. En la actualidad, puede afirmarse que la sociedad se encuentra plenamente inmersa en la era digital, y que el comercio electrónico ya no es una promesa, sino una realidad ampliamente aceptada y en constante crecimiento.
 
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.1	Fundamentos del #[i marketing] digital aplicado al turismo
-    p.mb-4 El #[i marketing] digital aplicado al turismo se refiere al uso de herramientas y plataformas digitales para promover destinos turísticos, servicios y productos relacionados con el sector. Se enfoca en llegar al consumidor de manera efectiva a través de canales en línea como sitios web, redes sociales, blogs, aplicaciones móviles y motores de búsqueda. Este enfoque permite a las empresas del sector turístico interactuar con los clientes potenciales de manera más directa y personalizada.
+    p.mb-4 El #[i marketing] digital aplicado al turismo se refiere al uso de herramientas y plataformas digitales para promover destinos turísticos, servicios y productos relacionados con el sector. Se enfoca en llegar al consumidor de manera efectiva a través de canales en línea como sitios #[i web], redes sociales, #[i blogs], aplicaciones móviles y motores de búsqueda. Este enfoque permite a las empresas del sector turístico interactuar con los clientes potenciales de manera más directa y personalizada.
     p.mb-4 Principales características del #[i marketing] digital en el turismo:
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-7(data-aos="fade-right")
+      .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
         LineaTiempoD.color-acento-botones
           p(numero="1" titulo="Interactividad") A diferencia del #[i marketing] tradicional, el #[i marketing] digital permite una comunicación bidireccional entre las empresas turísticas y los consumidores. Los usuarios pueden hacer preguntas, expresar opiniones y compartir sus experiencias en tiempo real, lo que facilita la creación de una comunidad alrededor de los productos o destinos turísticos.
           p(numero="2" titulo="Segmentación precisa") Gracias al análisis de datos en tiempo real, el #[i marketing] digital permite segmentar a los consumidores de manera muy precisa. Esto significa que los esfuerzos promocionales se pueden personalizar en función de la edad, intereses, ubicación geográfica, comportamientos anteriores, entre otros factores, lo que mejora la efectividad de las campañas.
           p(numero="3" titulo="Accesibilidad y globalidad") Las plataformas digitales permiten que los destinos turísticos lleguen a una audiencia global sin las limitaciones de los medios tradicionales. Las campañas pueden estar dirigidas a viajeros de todo el mundo, eliminando barreras geográficas y alcanzando a un público diverso.
-          p(numero="4" titulo="Medición y análisis") Una de las mayores ventajas del #[i marketing] digital es la capacidad de medir el rendimiento de las campañas en tiempo real. Herramientas de análisis web permiten a los profesionales del #[i marketing] monitorizar el tráfico en sitios web, las interacciones en redes sociales y las tasas de conversión, lo que ayuda a ajustar las estrategias rápidamente para maximizar los resultados.
-          p(numero="5" titulo="Generación de contenido relevante") El contenido sigue siendo una herramienta clave en el #[i marketing] digital. En el turismo, crear contenido atractivo y útil como blogs, videos, infografías y testimonios de clientes puede atraer a más turistas, proporcionando información valiosa sobre destinos, actividades y servicios.
-      .col-lg-3(data-aos="zoom-in")
+          p(numero="4" titulo="Medición y análisis") Una de las mayores ventajas del #[i marketing] digital es la capacidad de medir el rendimiento de las campañas en tiempo real. Herramientas de análisis #[i web] permiten a los profesionales del #[i marketing] monitorizar el tráfico en sitios #[i web], las interacciones en redes sociales y las tasas de conversión, lo que ayuda a ajustar las estrategias rápidamente para maximizar los resultados.
+          p(numero="5" titulo="Generación de contenido relevante") El contenido sigue siendo una herramienta clave en el #[i marketing] digital. En el turismo, crear contenido atractivo y útil como #[i blogs], videos, infografías y testimonios de clientes puede atraer a más turistas, proporcionando información valiosa sobre destinos, actividades y servicios.
+      .col-lg-3.col-md-6.order-lg-2.order-1.mb-4(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema3/img5.svg', alt='Texto que describa la imagen')
 
@@ -77,13 +77,13 @@
           .col-6
             img(src='@/assets/curso/temas/tema3/img7.svg' alt='AvatarTop')
         h5.text-center #[i Marketing] de contenidos
-        p.text-center Crear y distribuir contenido relevante y valioso para atraer, informar y fidelizar a los turistas. El contenido puede incluir blogs, videos, infografías y artículos que resuelvan dudas o inspiren viajes.
+        p.text-center Crear y distribuir contenido relevante y valioso para atraer, informar y fidelizar a los turistas. El contenido puede incluir #[i blogs], videos, infografías y artículos que resuelvan dudas o inspiren viajes.
       .tarjeta.tarjeta--BG02.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-6
             img(src='@/assets/curso/temas/tema3/img8.svg' alt='AvatarTop')
         h5.text-center SEO (optimización en motores de búsqueda)
-        p.text-center Mejorar la visibilidad de un destino o producto turístico en los resultados de búsqueda de Google y otros motores de búsqueda. Esto incluye la optimización de palabras clave, contenidos y estructura del sitio web para aumentar el tráfico orgánico.
+        p.text-center Mejorar la visibilidad de un destino o producto turístico en los resultados de búsqueda de Google y otros motores de búsqueda. Esto incluye la optimización de palabras clave, contenidos y estructura del sitio #[i web] para aumentar el tráfico orgánico.
       .tarjeta.tarjeta--BG02.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-6
@@ -106,16 +106,16 @@
     p.mb-4 Para implementar estas estrategias, existen diversas herramientas que facilitan la ejecución y optimización del #[i marketing] digital en el sector turístico:
     
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-3(data-aos="zoom-in")
+      .col-lg-3.col-md-6(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema3/img12.svg', alt='Texto que describa la imagen')
 
       .col-lg-7(data-aos="fade-right")
         LineaTiempoD.color-acento-botones
           p(numero="1" titulo="Redes sociales") Plataformas como Facebook, Instagram, Twitter y TikTok permiten compartir contenidos visuales y conectar con los usuarios de manera interactiva.
-          p(numero="2" titulo="Página web") Un sitio web bien diseñado, optimizado para SEO y con funciones interactivas, como formularios de contacto y reservas, es fundamental para la promoción digital de un destino o producto turístico.
+          p(numero="2" titulo="Página <em>web</em>") Un sitio #[i web] bien diseñado, optimizado para SEO y con funciones interactivas, como formularios de contacto y reservas, es fundamental para la promoción digital de un destino o producto turístico.
           p(numero="3" titulo="Email <em>marketing</em>") Herramientas como Mailchimp y SendGrid permiten enviar correos electrónicos segmentados y personalizados, gestionar bases de datos de clientes y analizar los resultados de las campañas.
-          p(numero="4" titulo="<em>Marketing</em> móvil (mobile <em>marketing</em>)") Utilizar aplicaciones móviles, SMS y notificaciones push para enviar ofertas y actualizaciones a los turistas de manera instantánea.
+          p(numero="4" titulo="<em>Marketing</em> móvil (<em>mobile marketing</em>)") Utilizar aplicaciones móviles, SMS y notificaciones #[i push] para enviar ofertas y actualizaciones a los turistas de manera instantánea.
           p(numero="5" titulo="Video <em>marketing</em>") Plataformas como YouTube y Vimeo son esenciales para compartir videos promocionales, tutoriales o testimonios de turistas, lo que aumenta la visibilidad y el engagement.
           p(numero="6" titulo="Apps turísticas") Las aplicaciones móviles dedicadas al turismo permiten a los usuarios acceder a información sobre destinos, reservas y actividades turísticas en tiempo real.
     p.mb-4 Las herramientas digitales ofrecen ventajas notables en la promoción turística, pero también presentan algunos desafíos que deben ser considerados:
@@ -176,23 +176,23 @@
         .cajon.color-primario.p-4.mb-4
           p Existen muchos programas de #[i software] de IA diseñados a la medida de las necesidades de análisis, manejo y procesamiento de información, recolectada de acuerdo con el tipo de herramienta de #[i marketing] digital que se esté utilizando o aplicando, como herramientas de IA para SEO o posicionamiento en buscadores, IA para redes sociales, para #[i marketing] de contenidos, entre otras. Todas ellas proporcionan información importante para la toma de decisiones estratégicas en #[i marketing] y promoción digital.
       .col-lg-10
-        p La velocidad y la puntualidad constituyen los motivos fundamentales para que una compañía incorpore herramientas promocionales basadas en inteligencia artificial. Esta tecnología es capaz de analizar grandes volúmenes de datos procedentes de diversas fuentes como redes sociales, correos electrónicos o sitios web, además de reducir la distancia entre la información obtenida y las soluciones aplicadas para optimizar las campañas publicitarias, así como el posicionamiento de productos, servicios o destinos turísticos.
+        p La velocidad y la puntualidad constituyen los motivos fundamentales para que una compañía incorpore herramientas promocionales basadas en inteligencia artificial. Esta tecnología es capaz de analizar grandes volúmenes de datos procedentes de diversas fuentes como redes sociales, correos electrónicos o sitios #[i web], además de reducir la distancia entre la información obtenida y las soluciones aplicadas para optimizar las campañas publicitarias, así como el posicionamiento de productos, servicios o destinos turísticos.
     p.mb-4 Las capacidades de la inteligencia artificial abarcan desde la predicción de ventas y la creación de contenido, hasta la optimización de la experiencia del cliente, ofreciendo múltiples formas de aprovechar potentes herramientas de #[i marketing] basadas en IA para negocios o proveedores de servicios turísticos. Entre las sugerencias para implementar la IA en estrategias de #[i marketing] se encuentran:
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8.order-lg-1.order-2
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Generación de contenido")
             .col-md-12.mb-4.mb-md-0
               p El contenido es el elemento fundamental que sostiene el #[i marketing] digital. Sin la creación y presentación adecuada de contenido, resulta complicado promover productos, informar a los clientes o persuadirlos para que realicen una compra. Las herramientas de IA permiten automatizar la creación de contenido, optimizar la comunicación y aumentar la interacción con los usuarios a través de diversas plataformas.
             
-          .row(titulo="Campañas automatizadas de <em>marketing</em> por email")
+          .row(titulo="Campañas automatizadas de <em>marketing</em> por <em>email</em>")
             .col-md-12.mb-4.mb-md-0
               p Las herramientas de IA aplicadas al email #[i marketing] permiten generar mensajes atractivos y efectivos con mayor rapidez. Automatizan procesos repetitivos y reducen significativamente el tiempo invertido en la elaboración de campañas, mejorando la personalización y el impacto de los mensajes.
             
-          .row(titulo="Chatbots")
+          .row(titulo="<em>Chatbots</em>")
             .col-md-12.mb-4.mb-md-0
               p Un chatbot basado en IA mejora la experiencia del cliente mediante la automatización de respuestas a preguntas frecuentes. Estos sistemas pueden interactuar en tiempo real con los usuarios, resolver inquietudes básicas, redirigir consultas complejas y garantizar que ningún cliente quede sin respuesta.
-      .col-lg-4
+      .col-lg-4.col-md-8.order-lg-2.order-1.mb-md-4
         figure
           img(src='@/assets/curso/temas/tema3/img15.png', alt='Texto que describa la imagen')
 
