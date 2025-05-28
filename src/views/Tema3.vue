@@ -191,7 +191,7 @@
             
           .row(titulo="<em>Chatbots</em>")
             .col-md-12.mb-4.mb-md-0
-              p Un chatbot basado en IA mejora la experiencia del cliente mediante la automatización de respuestas a preguntas frecuentes. Estos sistemas pueden interactuar en tiempo real con los usuarios, resolver inquietudes básicas, redirigir consultas complejas y garantizar que ningún cliente quede sin respuesta.
+              p Un #[i chatbot] basado en IA mejora la experiencia del cliente mediante la automatización de respuestas a preguntas frecuentes. Estos sistemas pueden interactuar en tiempo real con los usuarios, resolver inquietudes básicas, redirigir consultas complejas y garantizar que ningún cliente quede sin respuesta.
       .col-lg-4.col-md-8.order-lg-2.order-1.mb-md-4
         figure
           img(src='@/assets/curso/temas/tema3/img15.png', alt='Texto que describa la imagen')

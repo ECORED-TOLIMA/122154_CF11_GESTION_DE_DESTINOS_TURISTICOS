@@ -64,43 +64,43 @@
                     ul.lista-ul
                       li
                         i.fas.fa-angle-right
-                        | Medios masivos: televisión, radio, cine, prensa, revistas y medios digitales como páginas <dfn>web</dfn>,<dfn> blogs</dfn> y redes sociales.
+                        p.mb-0 Medios masivos: televisión, radio, cine, prensa, revistas y medios digitales como páginas #[i web, logs] y redes sociales.
                       li
                         i.fas.fa-angle-right
-                        | Medios de apoyo o complementarios: folletos, catálogos, volantes, vallas, carteles, pantallas LED, y <dfn>souvenirs</dfn> como gorras, camisetas o llaveros, entre otros.
+                        p.mb-0 Medios de apoyo o complementarios: folletos, catálogos, volantes, vallas, carteles, pantallas LED, y #[i souvenirs] como gorras, camisetas o llaveros, entre otros.
 
                 .row.justify-content-center.align-items-center
-                  .col-lg-12(data-aos="zoom-in")
+                  .col-lg-12
                     figure
                       img(src='@/assets/curso/temas/tema2/img5.png', alt="Imagen decorativa")
           .row.justify-content-center(numero="B" titulo="Promoción de ventas")
             .col-lg-12.order-lg-1.order-2
               p Consiste en el uso temporal de incentivos como descuentos, obsequios, sorteos, rifas o concursos para estimular la compra inmediata. Aunque no se aplica directamente a la gestión de destinos turísticos, es comúnmente utilizada por prestadores de servicios individuales para aumentar sus ventas y atraer clientes en el corto plazo.
-            .col-lg-12.order-lg-1.mb-md-4.order-1(data-aos="zoom-in")
+            .col-lg-12.order-lg-1.mb-md-4.order-1
               figure
                 img(src='@/assets/curso/temas/tema2/img6.png', alt="Imagen decorativa")
           .row.justify-content-center(numero="C" titulo="Venta personal")
             .col-lg-12.order-lg-1.order-2
               p Se refiere a la interacción directa entre un vendedor y un cliente potencial, lo cual permite adaptar el mensaje a las necesidades específicas del comprador. Es especialmente útil con clientes estratégicos, como agencias de viajes, ya que fomenta relaciones de confianza y facilita acuerdos comerciales. Sin embargo, su aplicación en la promoción de destinos turísticos es limitada y más propia de actores individuales.
-            .col-lg-12.order-lg-1.mb-md-4.order-1(data-aos="zoom-in")
+            .col-lg-12.order-lg-1.mb-md-4.order-1
               figure
                 img(src='@/assets/curso/temas/tema2/img7.png', alt="Imagen decorativa")
           .row.justify-content-center(numero="D" titulo="Relaciones públicas")
             .col-lg-12.order-lg-1.order-2
               p Comprenden un conjunto de acciones organizadas para construir y mantener una imagen positiva del destino turístico ante diferentes públicos. Incluyen notas de prensa, actividades de patrocinio, eventos especiales y publirreportajes. Esta herramienta, aunque muchas veces subestimada, puede ser muy eficaz y de bajo costo cuando se diseña estratégicamente y se integra con otras acciones del mix promocional.
-            .col-lg-12.order-lg-1.mb-md-4.order-1(data-aos="zoom-in")
+            .col-lg-12.order-lg-1.mb-md-4.order-1
               figure
                 img(src='@/assets/curso/temas/tema2/img8.png', alt="Imagen decorativa")
           .row.justify-content-center(numero="E" titulo="<em>Marketing</em> directo o digital")
             .col-lg-12.order-lg-1.order-2
               p Implica comunicaciones personalizadas e interactivas dirigidas a públicos específicos, utilizando canales como el correo electrónico, la mensajería instantánea, sitios #[i web], redes sociales y otras plataformas digitales. Se caracteriza por ser inmediato, medible y flexible. El #[i marketing] digital permite construir relaciones uno a uno con los turistas potenciales y es fundamental para cualquier estrategia actual de promoción turística.
-            .col-lg-12.order-lg-1.mb-md-4.order-1(data-aos="zoom-in")
+            .col-lg-12.order-lg-1.mb-md-4.order-1
               figure
                 img(src='@/assets/curso/temas/tema2/img9.png', alt="Imagen decorativa")
           .row.justify-content-center(numero="F" titulo="Eventos, ferias y exposiciones")
             .col-lg-12.order-lg-1.order-2
               p Son espacios clave para presentar destinos, lanzar marcas región y generar vínculos comerciales. Permiten el contacto directo entre la oferta y la demanda, y facilitan la difusión de rutas, circuitos, planes turísticos y demás servicios. Es esencial considerar aspectos como el prestigio, la cobertura geográfica, la frecuencia y el poder de convocatoria de los eventos al seleccionar en cuáles participar o cuáles organizar.
-            .col-lg-12.order-lg-1.mb-md-4.order-1(data-aos="zoom-in")
+            .col-lg-12.order-lg-1.mb-md-4.order-1
               figure
                 img(src='@/assets/curso/temas/tema2/img10.png', alt="Imagen decorativa")
     p De las seis herramientas presentadas, las más relevantes para la promoción turística de destinos son la publicidad, las relaciones públicas, el #[i marketing] digital y los eventos, ferias y exposiciones. En cambio, la promoción de ventas y la venta personal se adaptan mejor a acciones individuales realizadas por prestadores de servicios turísticos para sus productos específicos.
