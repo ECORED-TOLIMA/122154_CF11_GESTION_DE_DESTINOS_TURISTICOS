@@ -26,7 +26,7 @@
           p(numero="5" titulo="Canal") El medio a través del cual se transmite el mensaje (por ejemplo, medios digitales, impresos, etc.).
           p(numero="6" titulo="<em>Feedback</em> (retroalimentación)") La respuesta del receptor, que indica si el mensaje fue recibido correctamente y si la comunicación ha sido efectiva.
           
-      .col-lg-4.col-md-8.col-sm-4.order-lg-2.order-1(data-aos="zoom-in")
+      .col-lg-4.col-md-6.col-sm-4.mb-md-4.mb-sm-4.mb-4.order-lg-2.order-1(data-aos="zoom-in")
           figure
             img(src='@/assets/curso/temas/tema1/img2.svg', alt='Texto que describa la imagen')
     p.mb-4 El proceso de comunicación se compone de ocho pasos esenciales:
@@ -288,7 +288,7 @@
         .cajon.color-primario.p-4
           p.mb-0 Hoy en día, cuando la competencia es alta y feroz, la diferencia se crea a través de imágenes, símbolos y marcas, las cuales deben transmitir un concepto único y diferenciador que convierta a la marca en algo imposible de olvidar.
     
-    .BGT04.px-lg-5.px-md-5.px-sm-4
+    .BGT04.p-5
       .row.justify-content-center.align-items-center
         .col-lg-8
           p.mb-4 Cualquier estrategia de promoción debe estar respaldada por un diseño de imagen que forme parte de la marca, un concepto que en el #[i marketing] se conoce como #[i branding]. Este proceso implica el desarrollo y difusión de una marca mediante una serie de elementos y acciones de comunicación y promoción estratégicamente pensadas. A continuación, se detallan algunas características clave que una marca o #[i “brand”] debe cumplir:

@@ -27,7 +27,7 @@ export default {
         {
           id: 1,
           texto:
-            'La promoción hace parte de las 4 variables principales del marketing que se aplica al turismo.',
+            'La promoción hace parte de las 4 variables principales del <em>marketing</em> que se aplica al turismo.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -50,7 +50,7 @@ export default {
         {
           id: 2,
           texto:
-            'Uno de los elementos de la comunicación al cual se dirigen los mensajes en marketing se denomina “Emisor”.',
+            'Uno de los elementos de la comunicación al cual se dirigen los mensajes en <em>marketing</em> se denomina “Emisor”.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -142,7 +142,7 @@ export default {
         {
           id: 6,
           texto:
-            'Una de las estrategias específicas de promoción turística consiste en realizar una planeación estratégica de marketing.',
+            'Una de las estrategias específicas de promoción turística consiste en realizar una planeación estratégica de <em>marketing</em>.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -165,7 +165,7 @@ export default {
         {
           id: 7,
           texto:
-            'Dentro de las estrategias de marketing que existen para informar sobre productos y servicios, se encuentra la publicidad.',
+            'Dentro de las estrategias de <em>marketing</em> que existen para informar sobre productos y servicios, se encuentra la publicidad.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -188,7 +188,7 @@ export default {
         {
           id: 8,
           texto:
-            'El branding es un proceso para difundir una marca mediante las acciones de comunicación y promoción de productos turísticos.',
+            'El <em>branding</em> es un proceso para difundir una marca mediante las acciones de comunicación y promoción de productos turísticos.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -303,7 +303,7 @@ export default {
         {
           id: 13,
           texto:
-            'La irrupción de las nuevas tecnologías y la llegada de la era de la información ha dado lugar a la aplicación de estrategias de marketing digital.',
+            'La irrupción de las nuevas tecnologías y la llegada de la era de la información ha dado lugar a la aplicación de estrategias de <em>marketing</em> digital.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
