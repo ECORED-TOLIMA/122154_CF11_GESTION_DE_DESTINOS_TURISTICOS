@@ -64,10 +64,10 @@
                     ul.lista-ul
                       li
                         i.fas.fa-angle-right
-                        | Medios masivos: televisión, radio, cine, prensa, revistas y medios digitales como páginas #[i web], #[i blogs] y redes sociales.
+                        | Medios masivos: televisión, radio, cine, prensa, revistas y medios digitales como páginas <dfn>web</dfn>,<dfn> blogs</dfn> y redes sociales.
                       li
                         i.fas.fa-angle-right
-                        | Medios de apoyo o complementarios: folletos, catálogos, volantes, vallas, carteles, pantallas LED, y #[i souvenirs] como gorras, camisetas o llaveros, entre otros.
+                        | Medios de apoyo o complementarios: folletos, catálogos, volantes, vallas, carteles, pantallas LED, y <dfn>souvenirs</dfn> como gorras, camisetas o llaveros, entre otros.
 
                 .row.justify-content-center.align-items-center
                   .col-lg-12(data-aos="zoom-in")
@@ -102,7 +102,7 @@
               p Son espacios clave para presentar destinos, lanzar marcas región y generar vínculos comerciales. Permiten el contacto directo entre la oferta y la demanda, y facilitan la difusión de rutas, circuitos, planes turísticos y demás servicios. Es esencial considerar aspectos como el prestigio, la cobertura geográfica, la frecuencia y el poder de convocatoria de los eventos al seleccionar en cuáles participar o cuáles organizar.
             .col-lg-12.order-lg-1.mb-md-4.order-1(data-aos="zoom-in")
               figure
-                img(src='@/assets/curso/temas/tema2/img9.png', alt="Imagen decorativa")
+                img(src='@/assets/curso/temas/tema2/img10.png', alt="Imagen decorativa")
     p De las seis herramientas presentadas, las más relevantes para la promoción turística de destinos son la publicidad, las relaciones públicas, el #[i marketing] digital y los eventos, ferias y exposiciones. En cambio, la promoción de ventas y la venta personal se adaptan mejor a acciones individuales realizadas por prestadores de servicios turísticos para sus productos específicos.
 </template>
 

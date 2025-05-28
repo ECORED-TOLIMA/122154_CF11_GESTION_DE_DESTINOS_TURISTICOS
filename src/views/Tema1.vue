@@ -134,15 +134,35 @@
           p.mb-0 Para abordar las estrategias de promoción, es fundamental entender su origen y concepto, los cuales provienen de la ciencia administrativa aplicada al #[i marketing] y la promoción turística.
         p La disciplina administrativa ofrece herramientas para dirigir los esfuerzos organizacionales y así atraer a nuevos clientes. A través del #[i marketing], se coordinan diversas actividades, incluidas aquellas que promocionan y dan a conocer productos y servicios turísticos. La administración de #[i marketing] es un proceso que planea, organiza, dirige y controla los esfuerzos para lograr el intercambio de bienes y servicios con los mercados objetivo de una empresa.
     p.mb-4 La administración de #[i marketing] se considera un proceso integral para analizar oportunidades de negocio, definir objetivos concretos y formular estrategias que forman parte de un plan estructurado. Este plan permite ejecutar y controlar las actividades comerciales. La planificación de #[i marketing] comienza con la elaboración de un plan de #[i marketing], que detalla qué se hará, cuándo, cómo y quién será responsable de llevarlo a cabo. Las ventajas de la planificación incluyen:  
+    
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10.movil
+      .col-lg-8.order-2.order-lg-1
+        .cajon.color-secundario.p-4.mb-4
+          .row.justify-content-center.align-items-center
+            .col-lg-3.col-md-6.mb-md-4
+              figure
+                img(src='@/assets/curso/temas/tema1/img8.svg', alt='Texto que describa la imagen')
+            .col-lg-9
+              ul.lista-ul--color
+                li
+                  i.fas.fa-angle-right
+                  | Estimular el pensamiento estratégico de la gerencia.
+                li
+                  i.fas.fa-angle-right
+                  | Coordinar las actividades de marketing.
+                li
+                  i.fas.fa-angle-right
+                  | Orientar sobre los objetivos, políticas y estrategias a seguir.
+                li
+                  i.fas.fa-angle-right
+                  | Evitar la improvisación en las actividades.
+                li
+                  i.fas.fa-angle-right
+                  | Fomentar la participación e interrelación dentro de los equipos de trabajo.
+        p La planificación de marketing establece los objetivos mediante un cuidadoso análisis y determina las acciones necesarias para alcanzarlos. Las estrategias, como las de promoción, son cruciales para cumplir con los objetivos establecidos, lo que crea una relación entre los medios y los fines. Este proceso sistemático permite evaluar los recursos disponibles en la empresa, fijar objetivos, formular estrategias y elaborar un plan de marketing que se ponga en práctica y controle adecuadamente. Este plan se convierte en un documento detallado que especifica las estrategias y actividades a realizar para lograr los objetivos.
+      .col-lg-4.col-md-8.mb-md-4.order-1.order-lg-2
         figure
-          img(src='@/assets/curso/temas/tema1/img8_1.svg', alt='Texto que describa la imagen')
-          
-      .col-lg-10.desktop
-        figure
-          img(src='@/assets/curso/temas/tema1/img8.svg', alt='Texto que describa la imagen')
-    p.mb-4 La planificación de #[i marketing] establece los objetivos mediante un cuidadoso análisis y determina las acciones necesarias para alcanzarlos. Las estrategias, como las de promoción, son cruciales para cumplir con los objetivos establecidos, lo que crea una relación entre los medios y los fines. Este proceso sistemático permite evaluar los recursos disponibles en la empresa, fijar objetivos, formular estrategias y elaborar un plan de #[i marketing] que se ponga en práctica y controle adecuadamente. Este plan se convierte en un documento detallado que especifica las estrategias y actividades a realizar para lograr los objetivos.
+          img(src='@/assets/curso/temas/tema1/img28.png', alt='Texto que describa la imagen')
     p.mb-4 Los planes de #[i marketing] y promoción deben identificar los resultados esperados, anticipando la situación futura al finalizar el plan. También detallan los recursos necesarios para implementar las actividades estratégicas y asignan responsabilidades, con un presupuesto correspondiente. Es esencial que estos planes sean monitoreados mediante un adecuado control y seguimiento para evaluar el éxito o los resultados obtenidos.
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
       .bloque-texto-g__img(
@@ -267,14 +287,29 @@
         p Es importante comprender que el objetivo no es solo vender productos, sino mucho más que eso. Se trata de contar una historia que permita llegar a la mente de las personas y permanecer en ella. La marca es una promesa que debe permitir no solo que los consumidores elijan el producto o servicio por encima de los demás competidores en el mercado, sino también que lo perciban como el único capaz de satisfacer sus necesidades y expectativas.
         .cajon.color-primario.p-4
           p.mb-0 Hoy en día, cuando la competencia es alta y feroz, la diferencia se crea a través de imágenes, símbolos y marcas, las cuales deben transmitir un concepto único y diferenciador que convierta a la marca en algo imposible de olvidar.
-    p Cualquier estrategia de promoción debe estar respaldada por un diseño de imagen que forme parte de la marca, un concepto que en el #[i marketing] se conoce como #[i branding]. Este proceso implica el desarrollo y difusión de una marca mediante una serie de elementos y acciones de comunicación y promoción estratégicamente pensadas. A continuación, se detallan algunas características clave que una marca o #[i “brand”] debe cumplir:
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-10.movil
-        figure
-          img(src='@/assets/curso/temas/tema1/img22_1.svg', alt='Texto que describa la imagen')
-      .col-lg-10.desktop
-        figure
-          img(src='@/assets/curso/temas/tema1/img22.svg', alt='Texto que describa la imagen')
+    
+    .BGT04.px-lg-5
+      p.mb-4 Cualquier estrategia de promoción debe estar respaldada por un diseño de imagen que forme parte de la marca, un concepto que en el #[i marketing] se conoce como #[i branding]. Este proceso implica el desarrollo y difusión de una marca mediante una serie de elementos y acciones de comunicación y promoción estratégicamente pensadas. A continuación, se detallan algunas características clave que una marca o #[i “brand”] debe cumplir:
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-2.col-md-4.mb-md-4
+          figure
+            img(src='@/assets/curso/temas/tema1/img22.svg', alt='Texto que describa la imagen')
+        .col-lg-10
+          ul.lista-ul--color
+            li
+              i.fas.fa-angle-right
+              | La marca debe contar una historia. En el caso de un destino turístico, esta debe representar su identidad y todo aquello que lo caracteriza.
+            li
+              i.fas.fa-angle-right
+              | Debe estar asociada a emociones y valores positivos, permitiendo que los turistas vivan experiencias únicas e inolvidables.
+            li
+              i.fas.fa-angle-right
+              | La marca debe renovarse constantemente y adaptarse a las nuevas condiciones del contexto, como los avances tecnológicos y el comportamiento cambiante de los consumidores.
+            li
+              i.fas.fa-angle-right
+              | Debe estar presente en los lugares y medios en los que se encuentran los clientes del mercado al cual se dirige el destino turístico.
+
+    
     p.mb-4 El objetivo de la promoción en #[i marketing] es lograr que las personas conozcan, acepten y confíen en los productos y servicios ofrecidos en un destino turístico. Una de las mejores formas de dar a conocer estos productos es mediante el diseño de una marca que defina cómo se quiere presentar el destino ante los turistas potenciales, especialmente dentro del segmento o nicho de mercado al cual se desea llegar.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.mb-5.mb-lg-0
