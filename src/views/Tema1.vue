@@ -139,7 +139,7 @@
       .col-lg-8.order-2.order-lg-1
         .cajon.color-secundario.p-4.mb-4
           .row.justify-content-center.align-items-center
-            .col-lg-3.col-md-6.mb-md-4
+            .col-lg-3.col-md-6.col-sm-8.mb-md-4
               figure
                 img(src='@/assets/curso/temas/tema1/img8.svg', alt='Texto que describa la imagen')
             .col-lg-9
@@ -160,7 +160,7 @@
                   i.fas.fa-angle-right
                   | Fomentar la participación e interrelación dentro de los equipos de trabajo.
         p La planificación de marketing establece los objetivos mediante un cuidadoso análisis y determina las acciones necesarias para alcanzarlos. Las estrategias, como las de promoción, son cruciales para cumplir con los objetivos establecidos, lo que crea una relación entre los medios y los fines. Este proceso sistemático permite evaluar los recursos disponibles en la empresa, fijar objetivos, formular estrategias y elaborar un plan de marketing que se ponga en práctica y controle adecuadamente. Este plan se convierte en un documento detallado que especifica las estrategias y actividades a realizar para lograr los objetivos.
-      .col-lg-4.col-md-8.mb-md-4.order-1.order-lg-2
+      .col-lg-4.col-md-8.col-sm-8.mb-md-4.mb-sm-4.order-1.order-lg-2
         figure
           img(src='@/assets/curso/temas/tema1/img28.png', alt='Texto que describa la imagen')
     p.mb-4 Los planes de #[i marketing] y promoción deben identificar los resultados esperados, anticipando la situación futura al finalizar el plan. También detallan los recursos necesarios para implementar las actividades estratégicas y asignan responsabilidades, con un presupuesto correspondiente. Es esencial que estos planes sean monitoreados mediante un adecuado control y seguimiento para evaluar el éxito o los resultados obtenidos.
@@ -288,13 +288,15 @@
         .cajon.color-primario.p-4
           p.mb-0 Hoy en día, cuando la competencia es alta y feroz, la diferencia se crea a través de imágenes, símbolos y marcas, las cuales deben transmitir un concepto único y diferenciador que convierta a la marca en algo imposible de olvidar.
     
-    .BGT04.px-lg-5
-      p.mb-4 Cualquier estrategia de promoción debe estar respaldada por un diseño de imagen que forme parte de la marca, un concepto que en el #[i marketing] se conoce como #[i branding]. Este proceso implica el desarrollo y difusión de una marca mediante una serie de elementos y acciones de comunicación y promoción estratégicamente pensadas. A continuación, se detallan algunas características clave que una marca o #[i “brand”] debe cumplir:
+    .BGT04.px-lg-5.px-md-5.px-sm-4
+      .row.justify-content-center.align-items-center
+        .col-lg-8
+          p.mb-4 Cualquier estrategia de promoción debe estar respaldada por un diseño de imagen que forme parte de la marca, un concepto que en el #[i marketing] se conoce como #[i branding]. Este proceso implica el desarrollo y difusión de una marca mediante una serie de elementos y acciones de comunicación y promoción estratégicamente pensadas. A continuación, se detallan algunas características clave que una marca o #[i “brand”] debe cumplir:
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-2.col-md-4.mb-md-4
+        .col-lg-2.col-md-4.col-sm-8.mb-md-4
           figure
             img(src='@/assets/curso/temas/tema1/img22.svg', alt='Texto que describa la imagen')
-        .col-lg-10
+        .col-lg-10.col-md-6
           ul.lista-ul--color
             li
               i.fas.fa-angle-right
@@ -310,7 +312,7 @@
               | Debe estar presente en los lugares y medios en los que se encuentran los clientes del mercado al cual se dirige el destino turístico.
 
     
-    p.mb-4 El objetivo de la promoción en #[i marketing] es lograr que las personas conozcan, acepten y confíen en los productos y servicios ofrecidos en un destino turístico. Una de las mejores formas de dar a conocer estos productos es mediante el diseño de una marca que defina cómo se quiere presentar el destino ante los turistas potenciales, especialmente dentro del segmento o nicho de mercado al cual se desea llegar.
+      p.mb-4 El objetivo de la promoción en #[i marketing] es lograr que las personas conozcan, acepten y confíen en los productos y servicios ofrecidos en un destino turístico. Una de las mejores formas de dar a conocer estos productos es mediante el diseño de una marca que defina cómo se quiere presentar el destino ante los turistas potenciales, especialmente dentro del segmento o nicho de mercado al cual se desea llegar.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.mb-5.mb-lg-0
         .bloque-texto-b.color-primario.p-4

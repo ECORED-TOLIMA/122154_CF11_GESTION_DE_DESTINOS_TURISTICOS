@@ -11,7 +11,7 @@
       .col-lg-12(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema2/img1.png', alt='Texto que describa la imagen')
-    .BGT02      
+    .BGT02.px-lg-5.px-md-5.px-sm-4      
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-11(data-aos="fade-left")
           p La promoción, como componente fundamental del #[i marketing], se apoya en el uso estratégico de diferentes medios, herramientas y canales para comunicar eficazmente los atributos de un producto o servicio al público objetivo. Estos medios no deben emplearse de manera aislada, sino que deben integrarse de forma coherente en una mezcla promocional que responda a las características del producto o servicio turístico, al contexto del mercado y a los objetivos de comunicación establecidos.

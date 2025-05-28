@@ -7,7 +7,7 @@
         span 4
       h1 Eventos promocionales
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-2.col-md-4.mb-md-4
+      .col-lg-2.col-md-4.col-sm-8.mb-md-4
         figure
           img(src='@/assets/curso/temas/tema4/img1.svg', alt='Texto que describa la imagen')
       .col-lg-10
@@ -76,7 +76,7 @@
     p.mb-4 La organización de un evento promocional, independientemente de su magnitud, exige una planificación estructurada dividida en tres etapas fundamentales: pre-evento, evento y pos-evento. Cada una de estas fases cumple funciones específicas que garantizan el éxito de la actividad promocional y su alineación con los objetivos de #[i marketing] turístico.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.col-md-6.mb-md-4
+      .col-lg-3.col-md-6.col-sm-8.mb-md-4.mb-sm-4
         figure
           img(src='@/assets/curso/temas/tema4/img8.png', alt='Texto que describa la imagen')
       .col-lg-7
@@ -115,12 +115,12 @@
       .d-flex.flex-wrap.align-items-center.pe-4(style="background-color: #FFE9DF; border-radius: 15px;")
         img(src='@/assets/curso/temas/tema4/icon.svg' style="max-width: 32px; margin-left: -16px;")
         h3.col.ps-3.mb-0 Etapa 2. Evento
-    .BGT04
+    .BGT04.px-lg-5.px-md-5.px-sm-4
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-11
           p Corresponde a la fase de ejecución del evento, donde se materializan las acciones previstas en la etapa anterior. Es fundamental mantener un control estricto sobre el desarrollo de cada actividad, asegurando el cumplimiento del cronograma, el adecuado funcionamiento de los recursos técnicos y la articulación efectiva entre los comités operativos. Las tareas prioritarias incluyen:
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-2.col-md-4.mb-md-4
+        .col-lg-2.col-md-4.col-sm-6.mb-md-4.mb-sm-4
           figure
             img(src='@/assets/curso/temas/tema4/img9.svg', alt='Texto que describa la imagen')
         .col-lg-8
@@ -148,7 +148,7 @@
         img(src='@/assets/curso/temas/tema4/icon.svg' style="max-width: 32px; margin-left: -16px;")
         h3.col.ps-3.mb-0 Etapa 3. Pos-evento
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-5.col-md-10.mb-md-4
+      .col-lg-5.col-md-10.col-sm-8.mb-md-4.mb-sm-4
         figure
           img(src='@/assets/curso/temas/tema4/img10.png', alt='Texto que describa la imagen')
       .col-lg-7
@@ -351,7 +351,7 @@
           p(numero="4" titulo="Recursos necesarios") Identificar todos los recursos (humanos, físicos, tecnológicos y financieros) necesarios para la ejecución de las actividades.
           p(numero="5" titulo="Fechas o periodos de ejecución") Definir los plazos o tiempos específicos en los que se ejecutarán las actividades.
           p(numero="6" titulo="Responsables en cada comité") Asignar a las personas o grupos encargados de llevar a cabo cada actividad, según el comité correspondiente.
-      .col-lg-4
+      .col-lg-4.col-md-8.col-sm-8
         figure
           img(src='@/assets/curso/temas/tema4/img11.svg', alt='Texto que describa la imagen')
     p.mb-4 A continuación, se presenta el formato que se debe utilizar para el desarrollo del plan de trabajo, con las columnas principales y su descripción:
@@ -414,9 +414,9 @@
       h2 4.5	Elaboración de planes de contingencia
     p.mb-4 Un plan de contingencia permite anticiparse a situaciones inesperadas que puedan interrumpir el desarrollo del evento. Su propósito es garantizar la continuidad de las actividades, minimizando el impacto de los riesgos y facilitando una respuesta oportuna ante emergencias.
     p.mb-4 Pasos para elaborar un plan de contingencia:
-    .BGT04
+    .BGT04.px-lg-5.px-md-5.px-sm-4
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-3
+        .col-lg-3.col-md-6.col-sm-6.mb-md-4.mb-sm-4
           figure
             img(src='@/assets/curso/temas/tema4/img17.svg', alt='Texto que describa la imagen')
         .col-lg-8

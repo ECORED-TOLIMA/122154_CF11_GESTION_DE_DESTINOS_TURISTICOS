@@ -54,7 +54,7 @@
           p(numero="3" titulo="Accesibilidad y globalidad") Las plataformas digitales permiten que los destinos turísticos lleguen a una audiencia global sin las limitaciones de los medios tradicionales. Las campañas pueden estar dirigidas a viajeros de todo el mundo, eliminando barreras geográficas y alcanzando a un público diverso.
           p(numero="4" titulo="Medición y análisis") Una de las mayores ventajas del #[i marketing] digital es la capacidad de medir el rendimiento de las campañas en tiempo real. Herramientas de análisis #[i web] permiten a los profesionales del #[i marketing] monitorizar el tráfico en sitios #[i web], las interacciones en redes sociales y las tasas de conversión, lo que ayuda a ajustar las estrategias rápidamente para maximizar los resultados.
           p(numero="5" titulo="Generación de contenido relevante") El contenido sigue siendo una herramienta clave en el #[i marketing] digital. En el turismo, crear contenido atractivo y útil como #[i blogs], videos, infografías y testimonios de clientes puede atraer a más turistas, proporcionando información valiosa sobre destinos, actividades y servicios.
-      .col-lg-3.col-md-6.order-lg-2.order-1.mb-4(data-aos="zoom-in")
+      .col-lg-3.col-md-6.col-sm-6.order-lg-2.order-1.mb-4(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema3/img5.svg', alt='Texto que describa la imagen')
 
@@ -106,7 +106,7 @@
     p.mb-4 Para implementar estas estrategias, existen diversas herramientas que facilitan la ejecución y optimización del #[i marketing] digital en el sector turístico:
     
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-3.col-md-6(data-aos="zoom-in")
+      .col-lg-3.col-md-6.col-sm-6(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema3/img12.svg', alt='Texto que describa la imagen')
 
@@ -192,7 +192,7 @@
           .row(titulo="<em>Chatbots</em>")
             .col-md-12.mb-4.mb-md-0
               p Un #[i chatbot] basado en IA mejora la experiencia del cliente mediante la automatización de respuestas a preguntas frecuentes. Estos sistemas pueden interactuar en tiempo real con los usuarios, resolver inquietudes básicas, redirigir consultas complejas y garantizar que ningún cliente quede sin respuesta.
-      .col-lg-4.col-md-8.order-lg-2.order-1.mb-md-4
+      .col-lg-4.col-md-8.col-sm-6.order-lg-2.order-1.mb-md-4.mb-sm-4
         figure
           img(src='@/assets/curso/temas/tema3/img15.png', alt='Texto que describa la imagen')
 

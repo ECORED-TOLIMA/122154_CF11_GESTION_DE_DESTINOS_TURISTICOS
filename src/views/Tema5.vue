@@ -21,7 +21,7 @@
       h2 5.1	Actividades posteriores al evento
     p.mb-4 Una vez culminado el evento, se deben realizar una serie de actividades para su cierre formal, consolidación de resultados y retroalimentación de los actores involucrados. Estas actividades incluyen:
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.col-md-8.mb-md-4(data-aos="zoom-in")
+      .col-lg-4.col-md-8.col-sm-6.mb-md-4.mb-sm-4(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema5/img2.svg', alt='Texto que describa la imagen')
       .col-lg-6(data-aos="fade-right")
