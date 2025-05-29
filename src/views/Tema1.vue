@@ -268,7 +268,7 @@
                 | Estrategia de relaciones públicas.
               li
                 i.fas.fa-angle-right
-                | Estrategia de #[i marketing] directo o digital.
+                p-mb-0 Estrategia de #[i marketing] directo o digital.
               li
                 i.fas.fa-angle-right
                 | Estrategia de eventos, ferias y exposiciones.

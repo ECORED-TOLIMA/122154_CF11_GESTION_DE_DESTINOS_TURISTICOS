@@ -45,7 +45,7 @@
           .row(titulo="Medios de comunicación impersonales")
             .col-lg-6.order-lg-1.order-2
               p Son aquellos que no implican interacción directa entre emisor y receptor. Incluyen medios masivos como televisión, radio, prensa escrita, sitios #[i web], redes sociales, vallas publicitarias y material impreso como folletos o catálogos. También se incluyen en esta categoría las acciones de relaciones públicas, como conferencias, ruedas de prensa, eventos de lanzamiento o recorridos turísticos para periodistas o blogueros. Estos medios permiten alcanzar audiencias amplias y generar visibilidad para los destinos, marcas o productos turísticos.
-            .col-lf-6.col-12.mb-lg-0.mb-4.mb-md-4.order-lg-2.order-1.mb-4
+            .col-lg-6.col-12.mb-lg-0.mb-4.mb-md-4.order-lg-2.order-1.mb-4
               figure
                   img(src='@/assets/curso/temas/tema2/img4.png', alt="Imagen decorativa")
     separador

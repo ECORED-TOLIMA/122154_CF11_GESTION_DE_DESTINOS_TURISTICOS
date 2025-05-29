@@ -183,7 +183,7 @@
     
     .tarjeta.tarjeta--BG07.p-4.mb-3
         .row.justify-content-center.align-items-center.mb-3
-          .col-lg-11
+          .col-lg-12
             
             ol.lista-ol--cuadro.lista-ol--separador
               li 
@@ -346,7 +346,7 @@
       .col-lg-6
         LineaTiempoD.color-acento-botones
           p(numero="1" titulo="Objetivo del evento") Definir de manera clara y concisa el propósito del evento.
-          p(numero="2" titulo="Estrategias o acciones estratégicasa") Las acciones generales que guiarán el evento hacia su objetivo.
+          p(numero="2" titulo="Estrategias o acciones estratégicas") Las acciones generales que guiarán el evento hacia su objetivo.
           p(numero="3" titulo="Actividades o tácticas") Detallar las acciones específicas que deben llevarse a cabo para implementar las estrategias.
           p(numero="4" titulo="Recursos necesarios") Identificar todos los recursos (humanos, físicos, tecnológicos y financieros) necesarios para la ejecución de las actividades.
           p(numero="5" titulo="Fechas o periodos de ejecución") Definir los plazos o tiempos específicos en los que se ejecutarán las actividades.
@@ -373,7 +373,7 @@
               tr
                 td.text-left Es el enfoque o plan general para alcanzar los objetivos del evento. Aquí se deben plantear las acciones clave, pero de manera global.	
                 td.text-left Son los pasos específicos que se deben seguir para ejecutar las estrategias. Deben estar organizados de manera lógica y secuencial.	
-                td.text-left Involucra todos los insumos necesarios para llevar a cabo las actividades. Estos recursos pueden ser humanos, físicos (espacios y equipos), tecnológicos (#[i software] y hardware), financieros o de información.	
+                td.text-left Involucra todos los insumos necesarios para llevar a cabo las actividades. Estos recursos pueden ser humanos, físicos (espacios y equipos), tecnológicos (#[i software] y #[i hardware]), financieros o de información.	
                 td.text-left Se deben establecer las fechas exactas para la ejecución de cada actividad. Asegurarse de asignar tiempos razonables y viables, considerando posibles imprevistos.	
                 td.text-left Asigna claramente a los comités o personas encargadas de cada actividad, con base en su área de especialización.
     p.mb-4 En este paso, es fundamental tener en cuenta algunas consideraciones clave para lograr un plan de trabajo efectivo y exitoso:

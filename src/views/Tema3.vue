@@ -95,7 +95,7 @@
           .col-6
             img(src='@/assets/curso/temas/tema3/img10.svg' alt='AvatarTop')
         h5.text-center Social media #[i marketing]
-        p.text-center Aprovechar las redes sociales para crear comunidad, fomentar el engagement y promocionar destinos turísticos de forma directa y visual.
+        p.text-center Aprovechar las redes sociales para crear comunidad, fomentar el #[i engagement] y promocionar destinos turísticos de forma directa y visual.
       .tarjeta.tarjeta--BG02.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-6
@@ -164,7 +164,7 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.3	Aplicaciones de la Inteligencia Artificial (IA) en el #[i marketing] turístico
     p.mb-4 El uso de la inteligencia artificial en #[i marketing] ha sido muy popularizado en los últimos años. Actualmente no se concibe una empresa o negocio, sin importar su tamaño, que no utilice herramientas de #[i marketing] de IA para promocionar sus marcas, productos o servicios.
-    p.mb-4 Los profesionales que trabajan en e-commerce o especialistas en #[i marketing] digital deben implementar las herramientas de #[i marketing] basadas en IA como parte de sus planes de promoción. De esta forma se pueden diseñar y ejecutar estrategias de #[i marketing] efectivas que permitan alcanzar las metas con mayor rapidez.
+    p.mb-4 Los profesionales que trabajan en #[i e-commerce] o especialistas en #[i marketing] digital deben implementar las herramientas de #[i marketing] basadas en IA como parte de sus planes de promoción. De esta forma se pueden diseñar y ejecutar estrategias de #[i marketing] efectivas que permitan alcanzar las metas con mayor rapidez.
 
     
     .row.justify-content-center.align-items-center.mb-5
@@ -187,7 +187,7 @@
             
           .row(titulo="Campañas automatizadas de <em>marketing</em> por <em>email</em>")
             .col-md-12.mb-4.mb-md-0
-              p Las herramientas de IA aplicadas al email #[i marketing] permiten generar mensajes atractivos y efectivos con mayor rapidez. Automatizan procesos repetitivos y reducen significativamente el tiempo invertido en la elaboración de campañas, mejorando la personalización y el impacto de los mensajes.
+              p Las herramientas de IA aplicadas al #[i email marketing] permiten generar mensajes atractivos y efectivos con mayor rapidez. Automatizan procesos repetitivos y reducen significativamente el tiempo invertido en la elaboración de campañas, mejorando la personalización y el impacto de los mensajes.
             
           .row(titulo="<em>Chatbots</em>")
             .col-md-12.mb-4.mb-md-0
@@ -235,7 +235,7 @@
                 i.fas.fa-angle-up
               .ubicar
                 h4.mb-3.text-white Hilton Hotels
-            p.mt-3 Ha incorporado chatbots impulsados por IA para responder preguntas comunes de los huéspedes antes, durante y después de su estadía.
+            p.mt-3 Ha incorporado #[i chatbots] impulsados por IA para responder preguntas comunes de los huéspedes antes, durante y después de su estadía.
 
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
