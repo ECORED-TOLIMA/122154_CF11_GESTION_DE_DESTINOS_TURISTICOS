@@ -252,7 +252,7 @@
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
             h4  D.	Estrategias de acuerdo con las herramientas de promoción existentes
-            p.mb-0 Utilizan publicidad, #[i marketing] directo y eventos para dar a conocer los productos y servicios turísticos, informando al mercado sobre su existencia, características y beneficios.
+            
             ul.lista-ul
               li
                 i.fas.fa-angle-right
@@ -312,7 +312,8 @@
               | Debe estar presente en los lugares y medios en los que se encuentran los clientes del mercado al cual se dirige el destino turístico.
 
     
-      p.mb-4 El objetivo de la promoción en #[i marketing] es lograr que las personas conozcan, acepten y confíen en los productos y servicios ofrecidos en un destino turístico. Una de las mejores formas de dar a conocer estos productos es mediante el diseño de una marca que defina cómo se quiere presentar el destino ante los turistas potenciales, especialmente dentro del segmento o nicho de mercado al cual se desea llegar.
+      p El objetivo de la promoción en #[i marketing] es lograr que las personas conozcan, acepten y confíen en los productos y servicios ofrecidos en un destino turístico. Una de las mejores formas de dar a conocer estos productos es mediante el diseño de una marca que defina cómo se quiere presentar el destino ante los turistas potenciales, especialmente dentro del segmento o nicho de mercado al cual se desea llegar.
+      p.mb-4 Para conceptualizar la marca, se puede recurrir a las siguientes definiciones:
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.mb-5.mb-lg-0
         .bloque-texto-b.color-primario.p-4

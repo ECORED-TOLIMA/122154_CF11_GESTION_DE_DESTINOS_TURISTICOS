@@ -112,8 +112,8 @@
 
       .col-lg-7(data-aos="fade-right")
         LineaTiempoD.color-acento-botones
-          p(numero="1" titulo="Redes sociales") Plataformas como Facebook, Instagram, Twitter y TikTok permiten compartir contenidos visuales y conectar con los usuarios de manera interactiva.
-          p(numero="2" titulo="Página <em>web</em>") Un sitio #[i web] bien diseñado, optimizado para SEO y con funciones interactivas, como formularios de contacto y reservas, es fundamental para la promoción digital de un destino o producto turístico.
+          p(numero="1" titulo="Redes sociales") Plataformas como Facebook, Instagram, X y TikTok permiten compartir contenidos visuales y conectar con los usuarios de manera interactiva.
+          p(numero="2" titulo="Página <em>web</em>") Un sitio #[i web] bien diseñado, optimizado para SEO (Search Engine Optimization) y con funciones interactivas, como formularios de contacto y reservas, es fundamental para la promoción digital de un destino o producto turístico.
           p(numero="3" titulo="<em>Email marketing</em>") Herramientas como Mailchimp y SendGrid permiten enviar correos electrónicos segmentados y personalizados, gestionar bases de datos de clientes y analizar los resultados de las campañas.
           p(numero="4" titulo="<em>Marketing</em> móvil (<em>mobile marketing</em>)") Utilizar aplicaciones móviles, SMS y notificaciones #[i push] para enviar ofertas y actualizaciones a los turistas de manera instantánea.
           p(numero="5" titulo="Video <em>marketing</em>") Plataformas como YouTube y Vimeo son esenciales para compartir videos promocionales, tutoriales o testimonios de turistas, lo que aumenta la visibilidad y el engagement.
