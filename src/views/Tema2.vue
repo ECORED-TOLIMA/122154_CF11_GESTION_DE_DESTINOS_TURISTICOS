@@ -64,10 +64,10 @@
                     ul.lista-ul
                       li
                         i.fas.fa-angle-right
-                        | #[b Medios masivos]: televisión, radio, cine, prensa, revistas y medios digitales como páginas #[i web, blogs] y redes sociales.
+                        p.mb-0 #[b Medios masivos]: televisión, radio, cine, prensa, revistas y medios digitales como páginas #[i web, blogs] y redes sociales.
                       li
                         i.fas.fa-angle-right
-                        | #[b Medios de apoyo o complementarios]: folletos, catálogos, volantes, vallas, carteles, pantallas LED, y #[i souvenirs] como gorras, camisetas o llaveros, entre otros.
+                        p.mb-0 #[b Medios de apoyo o complementarios]: folletos, catálogos, volantes, vallas, carteles, pantallas LED, y #[i souvenirs] como gorras, camisetas o llaveros, entre otros.
 
                 .row.justify-content-center.align-items-center
                   .col-lg-12

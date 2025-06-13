@@ -135,31 +135,31 @@
             ul.lista-ul
               li
                 i.fas.fa-angle-right
-                | #[b Localización precisa]: permite dirigir las acciones promocionales hacia mercados o segmentos específicos.
+                p.mb-0 #[b Localización precisa]: permite dirigir las acciones promocionales hacia mercados o segmentos específicos.
               li
                 i.fas.fa-angle-right
-                | #[b Personalización]: los mensajes pueden ser adaptados a las preferencias y comportamientos de los usuarios, aumentando la efectividad.
+                p.mb-0 #[b Personalización]: los mensajes pueden ser adaptados a las preferencias y comportamientos de los usuarios, aumentando la efectividad.
               li
                 i.fas.fa-angle-right
-                | #[b Comunicación directa]: facilita una comunicación personalizada, sin la interferencia de otros mensajes publicitarios.
+                p.mb-0 #[b Comunicación directa]: facilita una comunicación personalizada, sin la interferencia de otros mensajes publicitarios.
               li
                 i.fas.fa-angle-right
-                | #[b Costo-efectividad]: las campañas digitales suelen ser más económicas que las tradicionales, con un retorno de inversión medible.
+                p.mb-0 #[b Costo-efectividad]: las campañas digitales suelen ser más económicas que las tradicionales, con un retorno de inversión medible.
           .tarjeta.color-primario.tarjeta--BG03.p-3(x="45%" y="60%" numero="+")
             h4 Desventajas
             ul.lista-ul
               li
                 i.fas.fa-angle-right
-                | #[b Dependencia de bases de datos actualizadas]: la falta de información precisa puede dificultar la personalización de las campañas.
+                p.mb-0 #[b Dependencia de bases de datos actualizadas]: la falta de información precisa puede dificultar la personalización de las campañas.
               li
                 i.fas.fa-angle-right
-                | #[b Saturación de mensajes]: la sobrecarga de mensajes publicitarios puede generar desinterés y rechazo por parte de los usuarios.
+                p.mb-0 #[b Saturación de mensajes]: la sobrecarga de mensajes publicitarios puede generar desinterés y rechazo por parte de los usuarios.
               li
                 i.fas.fa-angle-right
-                | #[b Infraestructura tecnológica insuficiente]: algunas empresas o destinos pueden carecer de la tecnología adecuada para implementar estrategias digitales eficaces.
+                p.mb-0 #[b Infraestructura tecnológica insuficiente]: algunas empresas o destinos pueden carecer de la tecnología adecuada para implementar estrategias digitales eficaces.
               li
                 i.fas.fa-angle-right
-                | #[b Seguridad de los datos]: la captura de datos sensibles de los usuarios requiere medidas de seguridad adecuadas para evitar vulnerabilidades.
+                p.mb-0 #[b Seguridad de los datos]: la captura de datos sensibles de los usuarios requiere medidas de seguridad adecuadas para evitar vulnerabilidades.
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.3	Aplicaciones de la Inteligencia Artificial (IA) en el #[i marketing] turístico

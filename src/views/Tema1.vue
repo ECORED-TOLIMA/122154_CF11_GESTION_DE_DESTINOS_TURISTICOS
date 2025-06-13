@@ -104,16 +104,16 @@
                   ul.lista-ul--color
                     li
                       i.fas.fa-circle
-                      | #[b Intangibilidad]: los servicios turísticos no tienen forma física y no pueden ser percibidos por los sentidos. En cambio, representan emociones, experiencias y sentimientos, lo que hace necesario resaltar la calidad de la experiencia en las estrategias promocionales.
+                      p.mb-0 #[b Intangibilidad]: los servicios turísticos no tienen forma física y no pueden ser percibidos por los sentidos. En cambio, representan emociones, experiencias y sentimientos, lo que hace necesario resaltar la calidad de la experiencia en las estrategias promocionales.
                     li
                       i.fas.fa-circle
-                      | #[b Heterogeneidad]: los servicios varían porque son proporcionados por personas y diseñados para satisfacer las necesidades de diferentes consumidores. Esto significa que, aunque el servicio sea el mismo, cada experiencia será única y personalizada.
+                      p.mb-0 #[b Heterogeneidad]: los servicios varían porque son proporcionados por personas y diseñados para satisfacer las necesidades de diferentes consumidores. Esto significa que, aunque el servicio sea el mismo, cada experiencia será única y personalizada.
                     li
                       i.fas.fa-circle
-                      | #[b Inseparabilidad]: la producción, compra y consumo de los servicios ocurren simultáneamente. Por ejemplo, un servicio de restaurante se produce y se consume al mismo tiempo, lo que influye en la promoción y la comunicación del servicio.
+                      p.mb-0 #[b Inseparabilidad]: la producción, compra y consumo de los servicios ocurren simultáneamente. Por ejemplo, un servicio de restaurante se produce y se consume al mismo tiempo, lo que influye en la promoción y la comunicación del servicio.
                     li
                       i.fas.fa-circle
-                      | #[b Caducidad (perecedero)]: a diferencia de los productos tangibles, los servicios no se transfieren como propiedad. Caducan en el momento de su consumo, como en el caso de un recorrido turístico o una comida en un restaurante.
+                      p.mb-0 #[b Caducidad (perecedero)]: a diferencia de los productos tangibles, los servicios no se transfieren como propiedad. Caducan en el momento de su consumo, como en el caso de un recorrido turístico o una comida en un restaurante.
 
                 figure
                   img(src='@/assets/curso/temas/tema1/img5.png', alt="Imagen decorativa")
